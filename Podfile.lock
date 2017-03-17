@@ -1,0 +1,19 @@
+PODS:
+  - MobileCenter (0.4.0):
+    - MobileCenter/MobileCenterAnalytics (= 0.4.0)
+    - MobileCenter/MobileCenterCrashes (= 0.4.0)
+  - MobileCenter/MobileCenter (0.4.0)
+  - MobileCenter/MobileCenterAnalytics (0.4.0):
+    - MobileCenter/MobileCenter
+  - MobileCenter/MobileCenterCrashes (0.4.0):
+    - MobileCenter/MobileCenter
+
+DEPENDENCIES:
+  - MobileCenter
+
+SPEC CHECKSUMS:
+  MobileCenter: 2a7d277eac0d3e67a3655c6347537ad82128fab7
+
+PODFILE CHECKSUM: 66d986742dd15453856bc383740a2a22fb8736a5
+
+COCOAPODS: 1.2.0
